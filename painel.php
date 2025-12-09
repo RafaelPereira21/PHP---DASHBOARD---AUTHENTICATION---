@@ -93,7 +93,7 @@ if (empty($meses)) { $meses = ['—']; $totaisMeses = [0]; }
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Painel Completo</title>
+    <title>EEEP MANOEL MANO</title>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
 
@@ -121,7 +121,7 @@ if (empty($meses)) { $meses = ['—']; $totaisMeses = [0]; }
 <nav class="navbar navbar-expand-lg bg-body-tertiary mb-4" id="navbar">
   <div class="container-fluid">
     <div style="display:flex; align-items:center; gap:15px;">
-        <a class="navbar-brand" href="#" style="font-weight:700;">SISTEMA</a>
+        <a class="navbar-brand" href="#" style="font-weight:700;">Painel de Registros</a>
         <!-- BOTÃO DE MODO ESCURO -->
         <button id="toggleDarkMode"
             style="padding: 8px 15px; border: none; border-radius: 8px; background: #222; color: #fff; cursor: pointer; font-weight: bold;">
