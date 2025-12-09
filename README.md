@@ -171,3 +171,35 @@
 | **Geração de Gráficos** | Utiliza consultas `GROUP BY` para extrair dados estatísticos de distribuição (por curso, bairro, etc.) e os codifica com `json_encode()` para o JavaScript. |
 | **Visualização (Chart.js)** | Renderiza **10 gráficos** dinâmicos usando a biblioteca Chart.js. |
 | **Modo Escuro** | Implementa a funcionalidade de **Modo Escuro**, persistindo a preferência do usuário via `localStorage`. |
+
+
+
+# IMGS
+
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/649b75b8-4a58-46f0-b96b-afd79c971926" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/2ac51d6c-0ebc-41dd-8730-ad2b31aa5c50" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/223072a5-1316-42f8-9e01-983db1d00049" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/fcbfbc8b-4b41-45ce-bec4-3d34739b87c1" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/65b7c77f-58d0-408b-a42c-32f9391759ae" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1467" height="547" alt="image" src="https://github.com/user-attachments/assets/244e8600-b326-43f4-900b-90f9692a336b" />
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1032" height="455" alt="image" src="https://github.com/user-attachments/assets/49515fa7-6aff-464f-baae-426a0b21475b" />
+
+
